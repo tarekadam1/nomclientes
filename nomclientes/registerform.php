@@ -38,7 +38,7 @@
                 <?php
                 if ( isset( $_POST['SUBMIT'] ) ) {
 
-                    $familyname=$_REQUEST['familyname'];
+                    $familyname=$_POST['familyname'];
                     $username=$_POST['username'];
            
 
